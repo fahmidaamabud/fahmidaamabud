@@ -17,7 +17,7 @@ img {
 }
 
 header {
-    background-image: url(./images/dawn.jpg);
+    background-image: url(./dawn.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -178,7 +178,7 @@ nav ul li a {
 
 /* explore-section */
 .explore-section {
-    background-image: url(./images/father.jpg);
+    background-image: url(./father.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
